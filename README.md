@@ -45,7 +45,7 @@ Write the detailed procedure here
 **Program:**
 
 
-<img width="1028" height="830" alt="Screenshot 2025-10-16 164129" src="https://github.com/user-attachments/assets/b495b187-b135-4ef5-b858-329ee5201f21" />
+<img width="615" height="496" alt="Screenshot 2025-10-17 191413" src="https://github.com/user-attachments/assets/47e643a9-1d0f-4af6-bd0d-4b0a241fbbbc" />
 
 
 
